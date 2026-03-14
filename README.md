@@ -20,15 +20,6 @@ I am a **QA Automation Engineer (SDET)** with over 5 years of experience buildin
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofazli&show_icons=true&theme=tokyonight&count_private=true" alt="Orcun's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofazli&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me:
 * **Portfolio/Blog:** [www.orcunfazli.com](https://www.orcunfazli.com)
 * **LinkedIn:** [linkedin.com/in/orcun-fazli](https://www.linkedin.com/in/orcun-fazli)
